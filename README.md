@@ -1,3 +1,4 @@
-# data_analytics_resume
+# data200_datascienceresumes
+A collection of data science resumes for the DATA-200 course. 
 
-This is the readme for the Data Analytics Resume lab 12
+Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package. Thanks to you both! 
